@@ -654,13 +654,13 @@ section{
 		.image.bio {
 			display: block;
 			/* margin: 0 0 2rem 0; */
-			width: 50%;
+			width: 100%;
 			margin-left: auto;
 			margin-right: auto;
 
 		}
 		.image.bio img {
-			width: 100%;
+			width: 50%;
 		}
 
 		.image.fit {
